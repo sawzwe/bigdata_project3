@@ -53,11 +53,11 @@ The graph illustrates the monthly sales performance over a 5-year period (2013â€
 
 ## 4. Presentation Video
 
-[Link to Presentation Video on YouTube](https://youtu.be/uBy5NwGCqZg)
+[Link to Presentation Video on YouTube](https://youtu.be/uBy5NwGCqZg:target="_blank")
 
 ## 5. Notebook as an Article
 
-[Link to the Jupyter Notebook on GitHub](https://github.com/sawzwe/bigdata_project3/blob/main/project_3.ipynb)
+[Link to the Jupyter Notebook on GitHub](https://github.com/sawzwe/bigdata_project3/blob/main/project_3.ipynb:target="_blank")
 
 ## Keywords
 
